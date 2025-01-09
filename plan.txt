@@ -1,2 +1,33 @@
+MVP 
+Input daily attacks using a form with fields for: 
+    - Attacker/player
+    - Attacker/player team
+    - Defender/opponent 
+    - Defender/opponent team
+    - Attacker Hero
+    - Defender Hero
+    - Result (win or loss)
+    - was it a cleanup? (yes, no) 
+
+View past results/attacks in a table: 
+    - filter by: date, attacker, defender, attacker hero, cleanup 
+    - Sort by: date, attacker, defender, result
+
+
+
+Database: 
 Database schema 
-Connect Database to 
+set up  Database 
+
+Back-end: 
+Write backend logic and oop classes
+Write API endpoints
+Test with mock data 
+
+Front end: 
+Wireframing
+Build react components 
+connect front with back end
+Testing
+
+
